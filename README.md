@@ -61,16 +61,4 @@ My love for teaching is evident in my work with children, my ability to connect 
   <br><br>
 
 
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akmatova04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nazira Akmatova's GitHub stats (Akmatova04)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmatova04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages (Akmatova04)"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akmatova04&theme=tokyonight&hide_border=true" alt="Nazira Akmatova's GitHub streak (Akmatova04)"/>
-  <!-- Кошумча: GitHub Profile Trophy (эгер кааласаңыз) -->
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akmatova04&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies (Akmatova04)"/>
-  </a> -->
-</p>
